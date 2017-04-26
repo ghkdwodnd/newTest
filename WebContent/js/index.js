@@ -86,7 +86,7 @@ $(function(){
                }
             },
             error : function () {
-                alert('오류가 발생하였습니다.');
+                alert('에러네요');
             }
         });
     });
